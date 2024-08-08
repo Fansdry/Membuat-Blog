@@ -1,0 +1,15 @@
+{
+  "locofyConfig": {
+    "project": "Blog Wireframe (Community)",
+    "id": "66b50e8b5b7bd44b60ef8e21",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\ipulo\\OneDrive\\Desktop\\CODING SANTAI\\BUAT BLOG\\src\\components",
+    "screensPath": "c:\\Users\\ipulo\\OneDrive\\Desktop\\CODING SANTAI\\BUAT BLOG\\src\\pages"
+  },
+  "livePreview.defaultPreviewPath": "/index.html"
+}
